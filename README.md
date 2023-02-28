@@ -1,2 +1,2 @@
 # pyui
-## quick delete amounts of files & resize photos
+## fastly delete amounts of files & resize photos
