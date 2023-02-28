@@ -1,0 +1,8 @@
+*.exe
+.vscode
+*.build
+*.dist
+__*
+*.cmd
+*.onefile-build
+*.spec
